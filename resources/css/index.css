@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    margin-top: 0px;
+}
+
+
+.description{
+    background-color: aqua;
+}
+
+
+.header{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    align-items: center;
+}
